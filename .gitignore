@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+.env
+.env.*
+.venv/
+venv/
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build / output
+dist/
+build/
+
+# Large or binary artifacts
+*.whl
+*.pt
+*.pth
+*.onnx
+*.ckpt
+*.h5
+*.pb
+
+# Logs
+logs/
+*.log
+
+# IDE settings
+.vscode/
+.idea/
